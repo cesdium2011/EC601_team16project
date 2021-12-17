@@ -1,4 +1,6 @@
 """
+Reference code
+
 Measure the frequencies coming in through the microphone
 
 Mashup of wire_full.py from pyaudio tests and spectrum.py from Chaco examples
