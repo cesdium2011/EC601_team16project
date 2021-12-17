@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 '''
 reference code
+
+From https://www.jcbrolabs.org/python-codes
 '''
 
 import matplotlib.pyplot as plt
